@@ -1,0 +1,5 @@
+Put in practice what you have learn from the blink.py
+
+until you can rewrite the code on your own
+
+and find what sleep value is the minimum to actually be able to see the LED ON and OFF
