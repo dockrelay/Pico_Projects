@@ -1,0 +1,2 @@
+practice what you have learned by making a binary counter using 4 LED's using
+a breadboard 
