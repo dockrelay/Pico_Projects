@@ -1,0 +1,1 @@
+this lesson doesnt have any code only theory about Binary numbers
